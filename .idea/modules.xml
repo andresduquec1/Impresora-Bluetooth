@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bluetooth-Distracom.iml" filepath="$PROJECT_DIR$/Bluetooth-Distracom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bluetooth-Distracom.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bluetooth-Distracom.app.iml" />
+    </modules>
+  </component>
+</project>
